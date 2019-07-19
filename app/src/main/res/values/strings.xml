@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="title_activity_my_recycle_test">MyRecycleTestActivity</string>
+    <string name="title_activity_my_recycle_list">MyRecycleListActivity</string>
+</resources>
